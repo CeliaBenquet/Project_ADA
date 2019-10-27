@@ -1,4 +1,4 @@
-# How food Shapes the World
+# How food shapes the World
 
 # Abstract
 With 7.7 billion people around the world in 2019, food demand outbreak has raised serious concerns regarding productive agricultural land availability. As for now cultivable surface expansion has been the only real solution, this project aims at providing insights on how this problematic is currently shaping the world’s surface as we know it. 
@@ -29,11 +29,14 @@ List of the used data sets:
 
 
 # A list of internal milestones up until project milestone 2
-- Open the datasets, understand them deeply, clean them and filter out uninteresting columns
-- Split the work evenly between each team members
-- Start analysing the datasets
-- Meet at least once a week to talk about how the project is going and see what is left to do. 
-
+First of all, we will try to organize our work in the following way :
+- Open the datasets, understand them deeply, clean them and filter out uninteresting columns/fields
+- Split the work evenly between each team members to get the project going in an efficient manner
+- Meet at least once a week to talk about how the project is going and see what has been done and what is left to do
+Then we will set some weakly goals that we will strive to achieve and talk about during our meetings :
+- Analyze the datasets, combine them and get the relevant informations that we need to answer our research questions (1st-2nd weeks)
+- Develop and use graphical and interactive visualizations which will help us summarize and show our results (3rd week)
+- Draw conclusions from our results and start thinking about the report (data story) (last week)
 
 # Questions for TAa
 - Is the project feasible with the four datasets mentioned? 
