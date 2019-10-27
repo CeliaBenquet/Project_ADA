@@ -33,6 +33,7 @@ First of all, we will try to organize our work in the following way :
 - Open the datasets, understand them deeply, clean them and filter out uninteresting columns/fields
 - Split the work evenly between each team members to get the project going in an efficient manner
 - Meet at least once a week to talk about how the project is going and see what has been done and what is left to do
+
 Then we will set some weakly goals that we will strive to achieve and talk about during our meetings :
 - Analyze the datasets, combine them and get the relevant informations that we need to answer our research questions (1st-2nd weeks)
 - Develop and use graphical and interactive visualizations which will help us summarize and show our results (3rd week)
