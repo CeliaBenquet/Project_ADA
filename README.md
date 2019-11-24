@@ -9,10 +9,10 @@ We endeavor at providing an exhaustive visualization of the world under growing 
 # Research questions
 - What is the global evolution of the cultivated surface on a world scale from 1990 to 2014?
 - What is the area lost of savanna, shrubland, grassland and forest per country?
-- Do we see a corelation between the area lost by ecosystems and the area gain by agriculture?
-- Can we find those same patterns for the main cultivated products? And what kind of crops are the more rentable (surface cultivated/quantity obtained)
-- What is the scheme for food importation and exportation over the world and what insight on countries’ position and relationship can it give us?  
-- For the main cultivated products, what is their “destruction level” on our ecosystems? Can we find the most “dangerous” one on this aspect?
+- Do we see a correlation between the area lost by ecosystems and the area gain by agriculture?
+- For each selected crop, Sojabean, banana, wheat, rice, palm oil, what pourcentage of the total cultivated area do they represent? 
+- If there is a correlation between an increase in area cultivated and area lost from all the ecosystems, what would be approximatively the area lost because of these crops in particular?
+- Check if sojabean, banana, wheat, rice, palm oil is meant for exportation and/or importation for each country over the years?
 
 # Dataset
 We will use data sets taken from FAOSTAT published by the United Nation and related to food and agriculture. It gives us a really broad set of informations to answer to our problematic. We selected 4 data sets. 
@@ -32,7 +32,7 @@ List of the used data sets:
 - Trade_Crops_Livestock_E_All_Data_(Normalized).csv \\imports and exports 
 
 
-# A list of internal milestones up until project milestone 2
+# A list of internal milestones up until project milestone 3
 First of all, we will try to organize our work in the following way :
 - Open the datasets, understand them deeply, clean them and filter out uninteresting columns/fields
 - Split the work evenly between each team members to get the project going in an efficient manner
@@ -44,9 +44,5 @@ Then we will set some weakly goals that we will strive to achieve and talk about
 - Draw conclusions from our results and start thinking about the report (data story) (last week)
 
 # Questions for TAa
-- Is the project feasible with the four datasets mentioned? 
-- Should we broaden our analysis to another related topic?
-- Should we bother about more economic parameters?
-- Is there a database of the total area per country?
-- Is there a way of linking exporting countries to importing countries (Which countries import from which?)?
+- How to map our values on a world map seperated by country boundaries. Is there a way to link the country names to an area on the map (Folium, implemented map)? 
 
