@@ -12,7 +12,7 @@ We endeavor at providing an exhaustive visualization of the world under growing 
 - Do we see a correlation between the area lost by ecosystems and the area gain by agriculture?
 - For each selected crop, Sojabean, banana, wheat, rice, palm oil, what pourcentage of the total cultivated area do they represent? 
 - If there is a correlation between an increase in area cultivated and area lost from all the ecosystems, what would be approximatively the area lost because of these crops in particular?
-- Check if sojabean, banana, wheat, rice, palm oil is meant for exportation and/or importation for each country over the years?
+- Is sojabean, banana, wheat, rice, palm oil is meant for exportation and/or importation for each country over the years? Check more precisely for different economical segments and regions. 
 
 # Dataset
 We will use data sets taken from FAOSTAT published by the United Nation and related to food and agriculture. It gives us a really broad set of informations to answer to our problematic. We selected 4 data sets. 
