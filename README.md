@@ -7,8 +7,9 @@ This study relies on FAOSTAT data set from the United Nation, helping us in the 
 We endeavor at providing an exhaustive visualization of the world under growing food reshaping pressure. Key features will be surface evolution across time and space, selected crops impact as well as involved parties and areas. Tackling all of the above with both social awareness and self consciousness concerns.
 
 # Research questions
-- What is the global evolution of the cultivated surface on a world scale through time?
-- Which kind of biomes are reduced at the advantage of agriculture?
+- What is the global evolution of the cultivated surface on a world scale from 1990 to 2014?
+- What is the area lost of savanna, shrubland, grassland and forest per country?
+- Do we see a corelation between the area lost by ecosystems and the area gain by agriculture?
 - Can we find those same patterns for the main cultivated products? And what kind of crops are the more rentable (surface cultivated/quantity obtained)
 - What is the scheme for food importation and exportation over the world and what insight on countries’ position and relationship can it give us?  
 - For the main cultivated products, what is their “destruction level” on our ecosystems? Can we find the most “dangerous” one on this aspect?
