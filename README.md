@@ -32,6 +32,7 @@ List of the used data sets:
 - Fao_data_crops_data.csv \\where every products are planted
 - Emissions_Land_Use_Forest_Land_E_All_Data_(Norm) \\less forests 
 - Trade_Crops_Livestock_E_All_Data_(Normalized).csv \\imports and exports 
+- export_items_1574515779.csv\\ Fao commodity. 
 
 
 # A list of internal milestones up until project milestone 3
@@ -47,4 +48,5 @@ Then we will set some weakly goals that we will strive to achieve and talk about
 
 # Questions for TAa
 - How to map our values on a world map seperated by country boundaries. Is there a way to link the country names to an area on the map (Folium, implemented map)? 
+- Is there any particular tool other than linear metrics for trend observation ? 
 
