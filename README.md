@@ -35,14 +35,14 @@ List of the used data sets:
 - export_items_1574515779.csv (Fao commodity) 
 
 
-# A list of internal milestones up until project milestone 3
-This will do those following steps until Milestone 3: 
+# A list of internal milestones up until project Milestone 3
+We will do those following steps until Milestone 3: 
 * More precise analysis of the data for each questions
 * Answer to the questions by getting the exact processing of the dataFrames 
 * Understand how to have a world map representation on Folium
 * Proper vizualisation of the results with Folium 
-* Analysis and discussion of the results based on the vizualisation and final answers to question
-* Do the data story 
+* Analysis and discussion of the results based on the vizualisation and final answers to questions 
+* Do the data story
 
 # Questions for TAa
 - How to map our values on a world map seperated by country boundaries. Is there a way to link the country names to an area on the map (Folium, implemented map)? 
