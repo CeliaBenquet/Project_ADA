@@ -36,12 +36,12 @@ List of the used data sets:
 
 
 # A list of internal milestones up until project milestone 3
-
+This will do those following steps until Milestone 3: 
 * More precise analysis of the data for each questions
-* Answer to the questions 
+* Answer to the questions by getting the exact processing of the dataFrames 
 * Understand how to have a world map representation on Folium
-* Proper vizualisation with Folium 
-* Analysis and discussion of the results based on the vizualisation
+* Proper vizualisation of the results with Folium 
+* Analysis and discussion of the results based on the vizualisation and final answers to question
 * Do the data story 
 
 # Questions for TAa
