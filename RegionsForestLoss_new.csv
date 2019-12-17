@@ -1,0 +1,72 @@
+,Aliment,Country,Correlation
+0,apples,'Northern America',0.72
+1,apples,'Central Asia',0.8
+2,apricots,'Central Asia',0.9
+3,artichokes,'Central Asia',0.91
+4,asparagus,'Southern Africa',0.85
+5,avocados,'Southern Europe',0.76
+6,avocados,'Oceania',0.8
+7,bananas,'Western Asia',0.8
+8,barley,'Northern America',0.83
+9,blueberries,'Oceania',0.77
+10,buckwheat,'World',0.75
+11,buckwheat,'Northern Europe',0.76
+12,buckwheat,'Southern Europe',0.73
+13,buckwheat,'Western Europe',0.82
+14,cherries,'Central Asia',0.76
+15,cherries,'Western Asia',0.81
+16,cherries,'Oceania',0.83
+17,cranberries,'Southern Europe',0.89
+18,currants,'Central Asia',0.82
+19,currants,'Southern Europe',0.75
+20,currants,'Oceania',0.79
+21,dates,'Middle Africa',0.72
+22,figs,'Central Asia',0.85
+23,garlic,'Central Asia',0.71
+24,garlic,'Oceania',0.7
+25,lentils,'Central Asia',0.71
+26,linseed,'Southern Asia',0.78
+27,maize,'Central Asia',0.91
+28,olives,'Western Europe',0.81
+29,olives,'Oceania',0.9
+30,papayas,'Southern Africa',0.78
+31,papayas,'Melanesia',0.77
+32,pears,'Americas',0.72
+33,pears,'Central Asia',0.71
+34,persimmons,'Central Asia',0.91
+35,persimmons,'Oceania',0.8
+36,pineapples,'Northern America',0.84
+37,pineapples,'Southern Europe',0.9
+38,pistachios,'Eastern Africa',0.87
+39,plantains,'Middle Africa',0.73
+40,plantains,'Southern Asia',0.85
+41,plantains,'Polynesia',0.76
+42,potatoes,'Middle Africa',0.8
+43,potatoes,'Central Asia',0.93
+44,quinces,'Southern Africa',0.92
+45,quinces,'Central Asia',0.92
+46,quinces,'Europe',0.71
+47,quinces,'Oceania',0.73
+48,rapeseed,'Central Asia',0.71
+49,rapeseed,'Western Asia',0.88
+50,rye,'World',0.76
+51,rye,'Africa',0.85
+52,sorghum,'Southern Africa',0.72
+53,sorghum,'Caribbean',0.87
+54,sorghum,'South-Eastern Asia',0.8
+55,sorghum,'Western Asia',0.83
+56,soybeans,'Central Asia',0.87
+57,soybeans,'South-Eastern Asia',0.84
+58,spinach,'Northern Europe',0.77
+59,spinach,'Oceania',0.72
+60,strawberries,'Western Asia',0.79
+61,strawberries,'Oceania',0.88
+62,tomatoes,'Central Asia',0.93
+63,triticale,'Western Asia',1.0
+64,triticale,'Western Europe',0.71
+65,vanilla,'Oceania',0.73
+66,watermelons,'Central Asia',0.91
+67,watermelons,'Oceania',0.9
+68,wheat,'Central Asia',0.92
+69,gooseberries,'World',0.78
+70,gooseberries,'Central Asia',0.93
