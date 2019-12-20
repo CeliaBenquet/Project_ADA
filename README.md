@@ -39,5 +39,13 @@ We will do those following steps until Milestone 4:
 * Print the final poster
 * Final meeting to homogenize what we will tell during the poster presentation
 
+# Contributions of each member
+- Kamil : Computed the the correlations and the destructivity of the crops, provided the heatmaps and worked on crop suggestion
+- Célia : Provided help on most parts and worked on the research questions. 
+- David : Worked on most graphs, on the crop suggestion and helped to establish the problematic and research questions. 
+- Alexandre : Did the webscraping for the areas, created the datastory and also provided help here and there. 
+
+Everybody will work on the final presentation (but some might not be there, having examinations the same day)
+
 # Questions for TAs
 - What do we do if we have an exam at the same time as the presentation? Is it ok if only one or two people are there? 
