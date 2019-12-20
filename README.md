@@ -1,4 +1,5 @@
 # How food shapes the World
+Direct link to our Datastory : <https://alexandrehutter.github.io/>
 # Abstract
 With 7.7 billion people around the world in 2019, food demand outbreak has raised serious concerns regarding productive agricultural land availability. As for now cultivable surface expansion has been the only realistic solution but let's be honest, with the raising awarness on climate change and environment, very few people believe that intensive agriculture would work on the long run. With this "guide" on how agriculture is currently shaping the surface of the world, we would like to provide a line of thoughts on the destructive foodstuffs and inversly the products that would deserve our attention to reshape the future of our alimentation.
 This study relies on FAOSTAT data set from the United Nation, helping us in the process.  
