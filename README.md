@@ -1,22 +1,18 @@
 # How food shapes the World
 
 # Abstract
-With 7.7 billion people around the world in 2019, food demand outbreak has raised serious concerns regarding productive agricultural land availability. As for now cultivable surface expansion has been the only real solution, this project aims at providing insights on how this problematic is currently shaping the world’s surface as we know it. 
-Investigation will first focus on the kind of environment that are being impinged on. Moving on to the “destructive” impact of certain foodstuffs and diet trends, correlating with international trade flows. 
+With 7.7 billion people around the world in 2019, food demand outbreak has raised serious concerns regarding productive agricultural land availability. As for now cultivable surface expansion has been the only realistic solution but let's be honest, with the raising awarness on climate change and environment, very few people believe that intensive agriculture would work on the long run. With this "guide" on how agriculture is currently shaping the surface of the world, we would like to provide a line of thoughts on the destructive foodstuffs and inversly the products that would deserve our attention to reshape the future of our alimentation.
 This study relies on FAOSTAT data set from the United Nation, helping us in the process.  
-We endeavor at providing an exhaustive visualization of the world under growing food reshaping pressure. Key features will be surface evolution across time and space, selected crops impact as well as involved parties and areas. Tackling all of the above with both social awareness and self consciousness concerns.
+We will first focus on a general idea of the global tendancies. Then, the correlation between export and biomes area loss is investigated in order to see if agriculture directly impinged on natural biomes. Moving on to the “destructive” impact of certain foodstuffs, if the correlation is high, we consider that it is not a good choice to cultivate. Finally, we established an indice to advice countries an which food to grow based on how space rentable and locally consumed they are. We added the economical factor in a lesser extend to rank the best ones. 
 
 # Research questions
-- What is the global evolution of the cultivated surface per country from 1995 to 2007?
-- What is the area lost of savanna, shrubland, grassland and forest per country per year?
-- Do we see a correlation between the area lost by ecosystems and the area gain by agriculture?
-- For each selected crop, sojabean, banana, wheat, rice and palm oil, what pourcentage of the total cultivated area do they represent? 
-- If there is a correlation between an increase in area cultivated and area lost from all the ecosystems, what would be approximatively the area lost because of the selected crops in particular?
-- Are sojabean, banana, wheat, rice and palm oil meant for exportation and/or importation for each country over the years? Check more precisely for different economical segments and regions. 
-- How can we identify  short term food trends and what is its impact on the global and country wise area loss?
+- What is the global evolution of the production quantity per country from 1995 to 2007?
+- What is the area lost of savanna, shrubland, grassland and forest per country over a year?
+- Do we see a correlation between the area lost by ecosystems and exportation?
+- Can we find an indice to rank foodstuffs and advice countries on how to extend agriculture in a more sustainable way? 
 
 # Dataset
-We will use data sets taken from FAOSTAT published by the United Nation and related to food and agriculture. It gives us a really broad set of informations to answer to our problematic. We selected 4 data sets. 
+We used data sets taken from FAOSTAT published by the United Nation and related to food and agriculture. It gives us a really broad set of informations to answer to our problematic. We selected 4 data sets. 
 
 First, we want an insight on where food is produced. “Fao_data_crops_data.csv” will give us the surface of new plantations for every kind of products through time in the different countries of the world by looking at “Area Harvested” for every product. We can also investigate data for a particular type of product. For example, we could find out about rentable products when comparing the “Area Harvested” to the “Production Quantity”. 
 
@@ -35,16 +31,13 @@ List of the used data sets:
 - export_items_1574515779.csv (Fao commodity) 
 
 
-# A list of internal milestones up until project Milestone 3
-We will do those following steps until Milestone 3: 
-* More precise analysis of the data for each questions
-* Answer to the questions by getting the exact processing of the dataFrames 
-* Understand how to have a world map representation on Folium
-* Proper vizualisation of the results with Folium 
-* Analysis and discussion of the results based on the vizualisation and final answers to questions 
-* Do the data story
+# A list of internal milestones up until project Milestone 4
+We will do those following steps until Milestone 4: 
+* Synthetize our findings 
+* Find nice "static" illustrations for the poster, in contrast to the interactive graphs that we have in the data story
+* Assemble text and image in a Power Point slide
+* Print the final poster
+* Final meeting to homogenize what we will tell during the poster presentation
 
 # Questions for TAa
-- How to map our values on a world map seperated by country boundaries. Is there a way to link the country names to an area on the map (Folium, implemented map)? 
-- Is there any particular tool other than linear metrics for trend observation ? 
-
+- What do we do if we have an exam at the same time as the presentation? Can only one person be there? 
