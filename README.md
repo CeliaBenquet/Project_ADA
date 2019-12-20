@@ -39,5 +39,5 @@ We will do those following steps until Milestone 4:
 * Print the final poster
 * Final meeting to homogenize what we will tell during the poster presentation
 
-# Questions for TAa
-- What do we do if we have an exam at the same time as the presentation? Can only one person be there? 
+# Questions for TAs
+- What do we do if we have an exam at the same time as the presentation? Is it ok if only one or two people are there? 
