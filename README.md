@@ -41,7 +41,7 @@ We will do those following steps until Milestone 4:
 
 # Contributions of each member
 - Kamil : Computed the the correlations and the destructivity of the crops, provided the heatmaps and worked on crop suggestion
-- Célia : Provided help on most parts and worked on the research questions. 
+- Célia : Provided help on most parts and worked on the research questions and the heatmaps. 
 - David : Worked on most graphs, on the crop suggestion and helped to establish the problematic and research questions. 
 - Alexandre : Did the webscraping for the areas, created the datastory and also provided help here and there. 
 
