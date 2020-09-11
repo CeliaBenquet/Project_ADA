@@ -47,5 +47,3 @@ We will do those following steps until Milestone 4:
 
 Everybody will work on the final presentation (but some might not be there, having examinations the same day)
 
-# Questions for TAs
-- What do we do if we have an exam at the same time as the presentation? Is it ok if only one or two people are there? 
